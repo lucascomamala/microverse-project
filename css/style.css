@@ -3,11 +3,22 @@
   height: auto;
 }
 
+#main {
+  background: #eee;
+  padding: 15px;
+}
+
 #img-div {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: white;
+  padding: 10px;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
 }
 
 body *{
