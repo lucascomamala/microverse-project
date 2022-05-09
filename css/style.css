@@ -1,0 +1,28 @@
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body *{
+    text-align: center;
+}
+
+ul {
+      display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  line-height: 1.4;
+  margin: auto;
+    align-items: flex-start;
+}
+
+li{
+    margin: 16px 0;
+}
